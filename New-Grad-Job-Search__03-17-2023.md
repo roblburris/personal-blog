@@ -3,20 +3,20 @@ My four years of undergrad have been interesting - I got half a year in person, 
 
 ## Timeline
 Here’s a rough timeline of my 2023 New Grad recruiting process:
-	* July 2022: started applying
-	* August 2022: First Offer!
-	* August 2022 - November 2022: Interviews
-	* November 2022: Offer signed with Palantir!
+* July 2022: started applying
+* August 2022: First Offer!
+* August 2022 - November 2022: Interviews
+* November 2022: Offer signed with Palantir!
 One thing to note is that I started applying early. From what I remember, I read two important in July:
-	* Meta was delaying giving return offer decisions to Summer 2022 interns
-	* Google was going on a 2 week hiring freeze
+* Meta was delaying giving return offer decisions to Summer 2022 interns
+* Google was going on a 2 week hiring freeze
 To me, this was worrisome news so I started applying pretty quick. I figured best case I spend some time applying and interviewing only to get a return offer from Google like a normal year, worst case I get some offers and can compare to my return offer at Intuit. I leveraged the coderQuad 2023 New Grad Positions Github repo to find applications and began slowly applying to various companies. From there, I began getting Online Assessments (OAs) and started interviewing at the start of August.
 
 ## Interviews
 ### August 2022
 For OAs, it seemed like a lot of them were automated so I won’t spend much time on these. Here are the notable ones that lead to interviews:
-	* Capital One: OA -> Final Round
-	* Amazon: OA -> Final Round
+* Capital One: OA -> Final Round
+* Amazon: OA -> Final Round
 I also got a two phone interviews post resume screen from Applied Intuition and Jane Street. 
 
 #### Capital One
@@ -53,4 +53,5 @@ Going into recruiting, my main priorities were compensation similar to what I co
 
 ### Conclusions
 I didn’t do much Leetcode (6 questions solved from July 2022 - September) during this recruiting cycle. Doing some more interview prep probably would have been helpful in allowing me to solve problems faster but it may have only been a marginal improvement. Regardless, I’m super happy to have an offer in this economic climate and am super excited to be joining Palantir. If you told me 2 years ago I’d be heading to Palantir as a new grad, I’d probably say you were lying so here’s to a new chapter after graduating at Palantir in NYC!
+
 #Blog
