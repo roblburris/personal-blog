@@ -7,9 +7,11 @@ Here’s a rough timeline of my 2023 New Grad recruiting process:
 * August 2022: First Offer!
 * August 2022 - November 2022: Interviews
 * November 2022: Offer signed with Palantir!
-One thing to note is that I started applying early. From what I remember, I read two important in July:
+
+One thing to note is that I started applying early. From what I remember, I read two important things in July:
 * Meta was delaying giving return offer decisions to Summer 2022 interns
 * Google was going on a 2 week hiring freeze
+* 
 To me, this was worrisome news so I started applying pretty quick. I figured best case I spend some time applying and interviewing only to get a return offer from Google like a normal year, worst case I get some offers and can compare to my return offer at Intuit. I leveraged the coderQuad 2023 New Grad Positions Github repo to find applications and began slowly applying to various companies. From there, I began getting Online Assessments (OAs) and started interviewing at the start of August.
 
 ## Interviews
